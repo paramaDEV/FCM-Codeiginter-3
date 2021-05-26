@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <h1 class="h3 mb-4 text-gray-800">Admmin's Page</h1>
+    <h1 class="h3 mb-4 text-gray-800">Admin's Page</h1>
     <div class="row">
         <!-- Earnings (Monthly) Card Example -->
         <div class="col-xl-6 col-md-6 mb-4">
